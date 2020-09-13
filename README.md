@@ -15,7 +15,8 @@ I never give up and I always push myself to create innovative solutions that sol
 - Asynchronous integration in API using Django Consumers to improve user experience on requests performed on bulk endpoints
 - Git (including GitHub and GitLab)
 - Existing code evaluation, Debugging and improvement
-My specialties are Python (Django, DRF), JavaScript (NodeJS, React.JS, React Native, Vue JS, jQuery and other) and Performance optimization. However, I also have significant experience with additional tools and toolkits. Feel free to ask me more about the languages or instruments that will be required for your project.
+
+- My specialties are Python (Django, DRF), JavaScript (NodeJS, React.JS, React Native, Vue JS, jQuery and other) and Performance optimization. However, I also have significant experience with additional tools and toolkits. Feel free to ask me more about the languages or instruments that will be required for your project.
 
 
 ## Portfolio
