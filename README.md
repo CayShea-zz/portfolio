@@ -10,9 +10,9 @@ I never give up and I always push myself to create innovative solutions that sol
 ## What Ive executed?
 
 - Simple websites, mobile apps and custom Web Applications
-- RESTfull, custom API endpoints in Python
+- RESTful, custom API endpoints in Python and Node
 - Software performance optimization
-- Asynchronous integration in API using Django Consumers to improve user experience on requests performed on bulk endpoints
+- Asynchronous integration in API using Django Consumers to reduce time and memory load on requests performed on bulk endpoints
 - Git (including GitHub and GitLab)
 - Existing code evaluation, Debugging and improvement
 
